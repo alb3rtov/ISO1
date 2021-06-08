@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 16 17:03:12 CET 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0176-6c4a-85cd-000007a97e00 
+on database directory C:\Users\alber\eclipse-workspace\ISO\sistemadb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/alber/eclipse-workspace/ISO/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=12.0.2+10
+user.dir=C:\Users\alber\eclipse-workspace\ISO
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
